@@ -1,6 +1,6 @@
 # Dictionaries, Learn Python - Full Course for Beginners [Tutorial]
 monthConversions = {
-    0: "January",  # Key and Value, 1 key for 1 value, can be int or str
+    "Jan": "January",  # Key and Value, 1 key for 1 value, can be int or str
     "Feb": "February",
     "Mar": "March",
     "Apr": "April",
@@ -15,4 +15,5 @@ monthConversions = {
 }
 
 # print(monthConversions["Dec"])
-print(monthConversions.get(0, "Not a valid key"))  # A key and a default value
+month = input("Insert month key : ")  # Input month key
+print(monthConversions.get(month, "Not a valid key"))  # A key and a default value

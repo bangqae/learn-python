@@ -1,5 +1,5 @@
 # Return, Learn Python - Full Course for Beginners [Tutorial]
-def cube(num):
+def cube(num):  # Cube function
     return num*num*num  # Using return
 
 

@@ -1,2 +1,2 @@
 # Learn Python - Full Course for Beginners [Tutorial]
-# # https://www.youtube.com/watch?v=rfscVS0vtbw
+# https://www.youtube.com/watch?v=rfscVS0vtbw
