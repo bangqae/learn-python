@@ -1,0 +1,7 @@
+# Translator, Learn Python - Full Course for Beginners [Tutorial]
+Giraffe Language
+vowels -> g
+-----------
+
+dog -> dgg
+cat -> cgt
