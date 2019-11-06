@@ -1,0 +1,4 @@
+Use python interpreter on cmd/terminal using command "python" or "python3"
+to activated, but in this pc only able using the first one, not sure why.
+This is used for tested out few python code, not for serious coding or
+actual project environment.
