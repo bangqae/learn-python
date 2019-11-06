@@ -1,5 +1,7 @@
 Arthur - Salesman
 Lancelot - Salesman
 Galahad - Receptionist
-
-
+Mordred - Manager
+Lionel - Accountant
+Toby - Human Resources
+Kelly - Customer Service
